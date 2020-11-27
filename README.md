@@ -1,7 +1,7 @@
 # ahorros
 
 Este es el repositorio que usare para ir actualizando mis progresos con mi proyecto personal de control de ahorro personal.
-** Fases por las que pasará este proyecto **
+**Fases por las que pasará este proyecto**
 - [ ] Interfaz gráfica basada en Java usando la libreria Swing
 - [ ] Incorporacion de una Base de Datos
 - [ ] Creacion de una aplicación web en JavaScript
