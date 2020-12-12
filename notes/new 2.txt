@@ -1,0 +1,12 @@
+deposit_TextField1 	<- Ingreso unidad a unidad
+
+confirm_deposit_button1 	<- introducir el ingreso del campo de texto <Atribute>
+add_container_button2 		<- añadir nuevo contenedor 					<LinkedList>
+	|
+	|-> percentage_TextField  		<- Porcentaje asignado al contenedor
+	|-> add_percentage_button 	 	<- Confirmar los porcentajes
+		  |
+		  |-> button 	<- Eliminar el contenedor
+
+TextField2  <- Porcentaje asignado al contenedor (first)
+button 	 	<- Confirmar los porcentajes (first)
